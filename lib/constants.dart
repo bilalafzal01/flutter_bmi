@@ -9,6 +9,10 @@ const kNumberTextStyle = TextStyle(
   fontSize: 50.0,
   fontWeight: FontWeight.w900,
 );
+const kLargeButtonTextStyle = TextStyle(
+  fontSize: 25.0,
+  fontWeight: FontWeight.bold,
+);
 const kBottomContainerHeight = 75.0;
 const kActiveCardColor = Color(0xFF1d1f33);
 const kInactiveCardColor = Color(0xFF111328);
